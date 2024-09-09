@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mattéo BADET, a backend developer currently in work-study program👨‍💻 working at YMAG  🚀</div>  
+### <div align="center">I'm Mattéo BADET, a backend developer working at YMAG  🚀</div>  
   
 
 - 🌱 I’m currently learning C# and Delphi  
